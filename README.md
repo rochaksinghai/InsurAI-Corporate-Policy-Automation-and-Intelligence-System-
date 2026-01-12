@@ -9,6 +9,16 @@ Currently, two official plugins are available:
 
 ## Getting Started
 
+## About the Project
+
+InsurAI is a Corporate Policy Automation and Intelligence System designed to simplify,
+analyze, and manage insurance policies using modern web technologies.
+
+## Features
+- Corporate policy management dashboard
+- Automated policy insights
+- Scalable React + Vite frontend
+
 ### Install dependencies
 ```bash
 npm install
