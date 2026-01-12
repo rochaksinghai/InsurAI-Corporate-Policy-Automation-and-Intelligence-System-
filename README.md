@@ -16,7 +16,7 @@ npm run dev
 ```
 
 ## Project Structure
-
+```bash
 ├── index.html
 ├── package.json
 ├── vite.config.js
