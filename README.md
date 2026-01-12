@@ -13,3 +13,14 @@ Currently, two official plugins are available:
 ```bash
 npm install
 npm run dev
+```
+
+## Project Structure
+
+├── index.html
+├── package.json
+├── vite.config.js
+├── eslint.config.js
+└── src
+    ├── main.jsx
+    └── App.jsx
