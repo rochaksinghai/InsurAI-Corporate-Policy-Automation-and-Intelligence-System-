@@ -4,19 +4,19 @@ InsurAI is a full-stack insurance intelligence platform designed to streamline a
 
 The project follows a clean monorepo structure, separating frontend and backend concerns while enabling seamless integration between them.
 
-## 📂 Project Structure
+## Project Structure
 
 InsurAI/ ├── frontend/ # Frontend application (React + Vite) ├── backend/ # Backend application (API & business logic) └── .gitignore
 
-## 🚀 Features
+##  Features
 
-📊 User-friendly web interface for insurance-related workflows
-🔐 Secure backend architecture for handling requests and data
-🔄 Clear separation of frontend and backend layers
-⚙️ Scalable structure suitable for future enhancements
-🧠 Designed with real-world full-stack practices in mind
+ User-friendly web interface for insurance-related workflows
+ Secure backend architecture for handling requests and data
+ Clear separation of frontend and backend layers
+ Scalable structure suitable for future enhancements
+ Designed with real-world full-stack practices in mind
 
-## 👨‍💻 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React
