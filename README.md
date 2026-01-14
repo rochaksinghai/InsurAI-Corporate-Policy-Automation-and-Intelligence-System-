@@ -1,11 +1,8 @@
-# React + Vite
+# 🛡️ InsurAI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+InsurAI is a full-stack insurance intelligence platform designed to streamline and modernize insurance workflows using a robust backend and a responsive web-based frontend.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses **Babel** for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses **SWC** for Fast Refresh
+The project follows a clean monorepo structure, separating frontend and backend concerns while enabling seamless integration between them.
 
 ## Getting Started
 
